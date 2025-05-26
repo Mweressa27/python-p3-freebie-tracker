@@ -1,5 +1,12 @@
 # Phase 3 Mock Code Challenge: Freebie Tracker
 
+# Database Schema
+https://dbdiagram.io/d/Freebie-Tracker-schema-6833f1e8b9f7446da31dbb28
+
+
+
+
+
 ## Learning Goals
 
 - Write SQLAlchemy migrations.
