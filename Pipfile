@@ -11,6 +11,7 @@ ipdb = "0.13.9"
 sqlalchemy = "1.4.42"
 
 [dev-packages]
+alembic = "*"
 
 [requires]
 python_full_version = "3.8.13"
